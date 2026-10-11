@@ -63,5 +63,5 @@ and Sumi Gupta.
 
 ## Links
 
-- [Project page](https://harshithroshankrishnakumarug2023-ops.github.io/harshithroshan.github.io/research/eyes-on-the-task/)
-- [Website](https://harshithroshankrishnakumarug2023-ops.github.io/harshithroshan.github.io/)
+- [Project page](https://harshithroshan.github.io/research/eyes-on-the-task/)
+- [Website](https://harshithroshan.github.io/)
